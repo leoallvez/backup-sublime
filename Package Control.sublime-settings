@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Blade Snippets",
+		"Blade Spacer",
+		"BracketHighlighter",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"PHP Companion",
+		"zz File Icons"
+	]
+}
